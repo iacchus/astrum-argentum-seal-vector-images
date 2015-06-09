@@ -1,13 +1,23 @@
-# astrum-argentum-seal-vector-images
+# Astrum Argentum Seal Vector Images
 
 Seals of the Astrum Argentum Order in Vectorial Format
 
-This images were gererated using (Free Software) Inkscape v0.48 
+These images were gererated using Inkscape v0.48 
 https://inkscape.org/
+If you want to edit the source svg please download this software, avaliable for linux, windows and mac
 
-Made in Ubuntu using fonts
 
-Roboto (SIGILLVM SANCTVM... and numbers 7 .. 77) - It is avaliable in Ubuntu Repos or Google Webfonts: google.com/fonts
-FreeMono (∴) - From GNU FreeFont package: www.gnu.org/software/freefont/
-Sans (B A B A L O N) - Installed by default on Ubuntu
+## Made in Ubuntu using fonts:
+
+### **Roboto**
+(SIGILLVM SANCTVM... and numbers 7 .. 77)
+It is avaliable in Ubuntu Repos or Google Webfonts: http://google.com/fonts
+
+### **FreeMono**
+(∴)
+From GNU FreeFont package: www.gnu.org/software/freefont/
+
+### **Sans**
+(B A B A L O N)
+Installed by default on Ubuntu
 
