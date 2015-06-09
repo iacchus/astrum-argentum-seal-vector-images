@@ -6,6 +6,8 @@ These images were gererated using Inkscape v0.48
 https://inkscape.org/  
 If you want to edit the source svg please download this software, avaliable for linux, windows and mac
 
+![Astrum Argentum Seal Vectorial Image](https://raw.githubusercontent.com/kassius/astrum-argentum-seal-vector-images/master/png/astrum-argentum-seal-600px.png "")
+
 
 ## Made in Ubuntu using fonts:
 
