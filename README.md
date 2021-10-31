@@ -2,7 +2,7 @@
 
 Seals of the Astrum Argentum Order in Vectorial Format
 
-[**YOU CAN GET THEM HERE, IN PDF OR IN PNG**](https://github.com/iacchus/astrum-argentum-seal-vector-images)
+[**YOU CAN GET THEM HERE, IN SVG, PDF OR IN PNG**](https://github.com/iacchus/astrum-argentum-seal-vector-images)
 
 These images were gererated using Inkscape v0.48  
 https://inkscape.org/  
