@@ -9,7 +9,7 @@ Seals of the Astrum Argentum Order in Vectorial Format
 * [png](https://raw.githubusercontent.com/iacchus/astrum-argentum-seal-vector-images/master/png/astrum-argentum-seal-300px.png) 300x300px
 * [png](https://raw.githubusercontent.com/iacchus/astrum-argentum-seal-vector-images/master/png/astrum-argentum-seal-600px.png) 600x600px
 * [png](https://raw.githubusercontent.com/iacchus/astrum-argentum-seal-vector-images/master/png/astrum-argentum-seal-900px.png) 900x900px
-* [png](https://raw.githubusercontent.com/iacchus/astrum-argentum-seal-vector-images/master/png/astrum-argentum-seal-1200px.png) 1200x1200px
+* [png](https://github.com/iacchus/astrum-argentum-seal-vector-images/raw/master/png/astrum-argentum-seal-2000px.png) 2000x2000px
 
 These images were gererated using Inkscape v0.48  
 https://inkscape.org/  
