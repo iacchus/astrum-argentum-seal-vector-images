@@ -2,6 +2,8 @@
 
 Seals of the Astrum Argentum Order in Vectorial Format
 
+[**YOU CAN GET THEM HERE, IN PDF OR IN PNG**](https://github.com/iacchus/astrum-argentum-seal-vector-images)
+
 These images were gererated using Inkscape v0.48  
 https://inkscape.org/  
 If you want to edit the source svg please download this software, avaliable for linux, windows and mac
